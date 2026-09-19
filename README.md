@@ -5,6 +5,7 @@
 ### Full Stack Developer · AI/ML Enthusiast · Agentic AI Builder
 
 Building **scalable web applications, AI-powered products, and automation workflows.**
+<br/><br/><br/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,spring,java,py,flutter,postgres,mongodb,mysql,graphql,docker,git,github,tailwind&perline=9&theme=dark" />
 
