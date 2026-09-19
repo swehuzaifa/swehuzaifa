@@ -1,198 +1,309 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Huzaifa+Shahab;Full+Stack+Developer;MERN+%7C+Spring+Boot+%7C+Agentic+AI;Building+scalable+web+apps+%26+AI+workflows" alt="Typing SVG" />
+# 👋 Hi, I'm Huzaifa Shahab
+
+### Full Stack Developer · AI/ML Enthusiast · Agentic AI Builder
+
+Building **scalable web applications, AI-powered products, and automation workflows.**
 
 <br/>
 
-<!-- Floating tech icons -->
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,spring,java,py,mongodb,mysql,postgres,graphql,docker,git,tailwind,html,css&theme=dark" />
+<a href="https://swehuzaifa.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/huzaifa-shahab">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:swehuzaifa.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/swehuzaifa">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<a href="https://swehuzaifa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/huzaifa-shahab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:swehuzaifa.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/swehuzaifa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,spring,java,py,flutter,postgres,mongodb,mysql,graphql,docker,git,github,tailwind&perline=9&theme=dark" />
 
 </div>
 
-<br/>
+---
 
 ## 👨‍💻 About Me
+
+I'm a **Full Stack Developer** focused on building production-ready applications across the web and AI space.
+
+My work sits at the intersection of:
+
+* **Full Stack Development** — React, Next.js, Node.js, Express & Spring Boot
+* **AI Engineering** — Generative AI, RAG, AI-powered features & Agentic workflows
+* **Backend Engineering** — REST APIs, GraphQL, databases & scalable architectures
+* **Automation** — n8n, AI workflows and process automation
+* **Data & Analytics** — Python, Power BI, DAX & data visualization
 
 ```javascript
 const huzaifa = {
   role: "Full Stack Developer",
-  location: "Rawalpindi, Pakistan 🇵🇰",
-  education: "BS Computer Science @ Air University, Islamabad",
-  currentFocus: [
-    "Building AI-powered job platforms",
-    "Shipping production e-commerce for global clients",
-    "Exploring Agentic AI & workflow automation"
+  education: "BS Computer Science",
+  basedIn: "Pakistan 🇵🇰",
+
+  currentlyBuilding: [
+    "AI-powered applications",
+    "Production web platforms",
+    "Agentic AI workflows"
   ],
-  funFact: "Shipped 15+ side projects & 5+ Chrome extensions"
+
+  technologies: {
+    frontend: ["React", "Next.js", "TypeScript"],
+    backend: ["Node.js", "Express", "Spring Boot"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL"],
+    ai: ["Generative AI", "RAG", "Agentic AI"],
+    automation: ["n8n"]
+  },
+
+  sideProjects: "15+",
+  chromeExtensions: "5+"
 };
 ```
 
-- 🔭 Currently working as **Frontend Engineer @ RemoteFlow** — an AI-powered job search platform
-- 🌱 Deep diving into **Agentic AI workflows** and automation-driven applications
-- 💼 Delivered a full production e-commerce storefront for **ECHARPEZ**, a UAE-based luxury abaya brand
-- 🎯 Focused on scalable APIs, clean architecture, and responsive, user-first interfaces
-- 📫 Reach me at **swehuzaifa.dev@gmail.com**
-
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css&theme=dark" />
 
-**Frontend**
+<br/><br/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### Frontend
 
-**Backend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind&theme=dark" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+<br/><br/>
 
-**Databases**
+### Backend
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,graphql&theme=dark" />
 
-**AI & Automation**
+<br/><br/>
 
-![OpenAI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Automation](https://img.shields.io/badge/Agentic%20AI%20Workflows-orange?style=flat-square)
+### Databases
 
-**Tools & DevOps**
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&theme=dark" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<br/><br/>
+
+### AI & Automation
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic_AI-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+<br/><br/>
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" />
 
 </div>
 
-<br/>
+---
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="600">
+### Frontend Engineer · RemoteFlow
 
-**Frontend Engineer** · RemoteFlow
-`Aug 2025 – Present`
-Contributing to an AI-powered job search and application platform. Built scalable, responsive UI components, integrated APIs, and optimized performance for seamless user experiences.
+**Aug 2025 – Present**
 
-</td>
-</tr>
-<tr>
-<td>
+Working on an AI-powered job search and application platform.
 
-**Full Stack Engineer** · ECHARPEZ
-`Nov 2025 – Mar 2026`
-Built and delivered a production-ready e-commerce platform for a UAE-based luxury abaya brand — fully custom storefront with tailored UI/UX, custom sizing, and product workflows.
+* Building scalable and responsive interfaces with modern React/Next.js architecture
+* Integrating frontend applications with backend APIs and GraphQL services
+* Developing reusable UI components and improving application performance
+* Working on AI-driven workflows for job discovery and application automation
 
-</td>
-</tr>
-<tr>
-<td>
+---
 
-**Junior Software Developer** · Alabtaal Developers
-`May 2023 – Dec 2024`
-Developed and maintained Java Spring Boot applications for alumni management and performance reporting. Collaborated in an Agile team using Jira, GitHub, and Docker.
+### Full Stack Engineer · ECHARPEZ
 
-</td>
-</tr>
-</table>
+**Nov 2025 – Mar 2026**
 
-<br/>
+Built and delivered a production e-commerce platform for a UAE-based luxury fashion brand.
+
+* Developed a custom Shopify storefront and user experience
+* Implemented responsive product, collection and checkout experiences
+* Worked on custom product workflows and sizing functionality
+* Focused on performance, responsive design and premium UI/UX
+
+---
+
+### Junior Software Developer · Alabtaal Developers
+
+**May 2023 – Dec 2024**
+
+Worked on Java-based enterprise applications and internal management systems.
+
+* Developed backend services using **Java & Spring Boot**
+* Designed and integrated REST APIs
+* Worked with relational databases and application-level data models
+* Collaborated in an Agile environment using **Jira, GitHub and Docker**
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🛒 SwiftCom — Smart Retail Platform
-Cross-platform grocery marketplace with inventory, ordering, real-time chat, notifications & analytics. Integrated Gemini AI, Supabase Auth/Storage, PostgreSQL, REST APIs & WebSockets.
 
-`Flutter` `Dart` `Supabase` `PostgreSQL` `Gemini AI` `Mistral AI` `Firebase FCM`
+A cross-platform grocery marketplace designed to connect customers with local retailers while using AI to improve the shopping experience.
+
+**Features**
+
+* Grocery marketplace & product discovery
+* Inventory and order management
+* Real-time communication
+* Notifications
+* Analytics
+* AI-powered product functionality
+
+**Tech**
+
+`Flutter` `Dart` `Supabase` `PostgreSQL` `Gemini AI` `Mistral AI` `Firebase FCM` `REST APIs` `WebSockets`
+
+---
 
 ### 📊 Spotify Analysis — BI & Data Visualization
-Interactive full-stack analytics dashboard visualizing Spotify data, tracking KPIs and trends through dynamic charts and filters.
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Python` `Power BI` `DAX`
+Interactive analytics project built around Spotify datasets to uncover trends across artists, albums and tracks.
 
-### 🧩 15+ Side Projects & 5+ Chrome Extensions
-- **GoPool** — Carpool marketplace
-- **GitHub Contribution Stats Analyzer**
-- **AI Food Scanner** — Hugging Face Models
-- **Vaxxi** — Daily planner & productivity assistant
-- **Sports Arena Booking System**
-- **WhatsApp Message Summarizer** (Chrome Extension)
-- **Gmail Auto Replier** (Chrome Extension)
+**Highlights**
 
-<br/>
+* KPI dashboards
+* Artist and track analysis
+* Time-based trends
+* Interactive filtering
+* Data cleaning and transformation
+* DAX-based calculations
 
-## 📈 GitHub Stats
+**Tech**
+
+`Power BI` `DAX` `Python` `React` `Node.js` `Express` `MongoDB`
+
+🔗 **[View Project](https://github.com/HuzaifaShahab/Spotify-Anaysis-PowerBiProject)**
+
+---
+
+### 🚗 GoPool — Carpool Marketplace
+
+A modern carpool marketplace connecting drivers and riders for shared journeys.
+
+**Features**
+
+* Driver ride listings
+* Rider booking & offers
+* Authentication
+* Notifications
+* Location-based functionality
+* Responsive marketplace interface
+
+**Tech**
+
+`React` `Tailwind CSS` `Node.js` `Express` `Supabase`
+
+---
+
+### 🤖 AI Food Scanner
+
+AI-powered application that analyzes food images and provides useful information using machine learning models.
+
+**Tech**
+
+`React` `Python` `Hugging Face` `AI/ML`
+
+---
+
+### 🧩 Chrome Extensions
+
+A collection of productivity-focused browser extensions.
+
+* **WhatsApp Message Summarizer**
+* **Gmail Auto Replier**
+* **GitHub Contribution Analyzer**
+* Other experimental AI-powered browser tools
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=swehuzaifa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swehuzaifa&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=swehuzaifa&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&rank_icon=github" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swehuzaifa&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swehuzaifa&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-<br/>
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science** — Air University, Islamabad
-`Sep 2022 – Jun 2026` · CGPA 3+
-
-<br/>
-
-<div align="center">
-
-### 📫 Let's Connect
-
-<a href="https://swehuzaifa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/huzaifa-shahab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:swehuzaifa.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swehuzaifa&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=swehuzaifa&color=blueviolet&style=flat-square&label=Profile+Views)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swehuzaifa&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swehuzaifa&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
+---
+
+## 🎓 Education
+
+### Bachelor of Science in Computer Science
+
+**Air University**
+`2022 – 2026`
+
+Computer Science · Software Engineering · AI/ML · Databases · Data Structures
+
+---
+
+## 📈 What I'm Currently Exploring
+
+<div align="center">
+
+`Agentic AI` · `RAG Systems` · `AI Agents` · `LLM Applications`
+`Workflow Automation` · `System Design` · `Scalable APIs` · `Cloud Deployment`
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://swehuzaifa.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/huzaifa-shahab">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:swehuzaifa.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=swehuzaifa&style=flat-square&color=blueviolet&label=Profile+Views" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
