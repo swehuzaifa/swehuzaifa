@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Huzaifa Shahab
+#  Hi, I'm Huzaifa
 
 ### Full Stack Developer · AI/ML Enthusiast · Agentic AI Builder
 
