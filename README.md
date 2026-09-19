@@ -6,12 +6,14 @@
 
 Building **scalable web applications, AI-powered products, and automation workflows.**
 
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,spring,java,py,flutter,postgres,mongodb,mysql,graphql,docker,git,github,tailwind&perline=9&theme=dark" />
+
 <br/>
 
 <a href="https://swehuzaifa.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/huzaifa-shahab">
+<a href="https://linkedin.com/in/swehuzaifa">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:swehuzaifa.dev@gmail.com">
@@ -22,8 +24,6 @@ Building **scalable web applications, AI-powered products, and automation workfl
 </a>
 
 <br/><br/>
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,spring,java,py,flutter,postgres,mongodb,mysql,graphql,docker,git,github,tailwind&perline=9&theme=dark" />
 
 </div>
 
